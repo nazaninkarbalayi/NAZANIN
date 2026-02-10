@@ -9,6 +9,7 @@
 - AI / ML: NumPy, Pandas, Matplotlib
 - Tools: Git, GitHub, Jupyter Notebook
 
+
 ### 📂 AI Projects
 - Machine Learning practice projects
 - Data analysis & visualization
