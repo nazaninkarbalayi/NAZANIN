@@ -5,7 +5,7 @@
 📊 Passionate about data, models, and problem solving  
 
 ### 🛠 Skills
-- Programming: Python, C++
+- Programming: Python
 - AI / ML: NumPy, Pandas, Matplotlib
 - Tools: Git, GitHub, Jupyter Notebook
 
